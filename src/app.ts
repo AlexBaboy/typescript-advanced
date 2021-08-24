@@ -5,12 +5,12 @@ class Person {
 const al = new Person('Alex')
 
 // demo comment
-const btn: Element = document.querySelector('#btn')!
+/*const btn: Element = document.querySelector('#btn')!
 
 if(btn)
     btn.addEventListener('click', ()=> {
         console.log('Btn clicked')
-    })
+    })*/
 
 // ==============
 
